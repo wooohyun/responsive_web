@@ -20,7 +20,7 @@
 
 
 @media (max-width:768px){
-    .header{ line-height:  100px;}
+.header{ line-height:  100px;}
 .header .container{ width: auto; margin: 0 auto;}
 .header h1 { float: left; padding: 0 15px; }
 .header .gnb{ float: none; position: fixed; top: 0; left: -100%; width: calc(100% - 90px); height: 100vh; background: #fff; border-right:  1px solid #ddd;  padding: 50px 15px 0 15px; transition: left 0.5s;}
